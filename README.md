@@ -28,8 +28,4 @@ python tic_tac_toe.py
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-As for your script, make sure it's well-commented, and consider adding error handling or user input validation where necessary. You might also add more in-depth comments explaining how the minimax function and DFS are implemented and work within the context of the game to help others understand the code better.
-
-Including a license is generally a good practice, as previously discussed, and you can follow the steps provided in the previous response to include a license like MIT, which is common and permissive for such projects.
